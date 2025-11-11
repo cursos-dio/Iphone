@@ -54,3 +54,4 @@ classDiagram
     IPhone ..|> ReprodutorMusical
     IPhone ..|> AparelhoTelefonico
     IPhone ..|> NavegadorInternet
+    ```
